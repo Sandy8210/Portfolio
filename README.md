@@ -40,3 +40,8 @@
 # Reference :
 
     => RESUME , WORK section --- https://www.youtube.com/watch?v=dImgZ_AH7uA
+
+# Client dependenices : 
+
+    => npm i react-router-dom
+    => npm i react-icons
